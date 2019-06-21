@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Highlighting a clicked cell in the ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e30/)**
+<!-- run online end -->
 
 
 <p>This demo shows you how to highlight clicked cells in the ASPxGridView.</p>
